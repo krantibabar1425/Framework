@@ -27,3 +27,4 @@ export default class loginPage{
         await this.utilities.clickElement(this.login)
     }
 }
+//kranti
